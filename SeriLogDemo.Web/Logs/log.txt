@@ -1,0 +1,287 @@
+04/22/2020 00:42:14 Application Starting Up
+04/22/2020 00:42:16 HTTP "GET" "/" responded 200 in 192.0562 ms
+04/22/2020 00:42:22 You requested The index page.
+04/22/2020 00:42:22 The value of i is 0
+04/22/2020 00:42:22 The value of i is 1
+04/22/2020 00:42:22 The value of i is 2
+04/22/2020 00:42:22 The value of i is 3
+04/22/2020 00:42:22 The value of i is 4
+04/22/2020 00:42:22 The value of i is 5
+04/22/2020 00:42:22 The value of i is 6
+04/22/2020 00:42:22 The value of i is 7
+04/22/2020 00:42:22 The value of i is 8
+04/22/2020 00:42:22 The value of i is 9
+04/22/2020 00:42:22 The value of i is 10
+04/22/2020 00:42:22 The value of i is 11
+04/22/2020 00:42:22 The value of i is 12
+04/22/2020 00:42:22 The value of i is 13
+04/22/2020 00:42:22 The value of i is 14
+04/22/2020 00:42:22 The value of i is 15
+04/22/2020 00:42:22 The value of i is 16
+04/22/2020 00:42:22 The value of i is 17
+04/22/2020 00:42:22 The value of i is 18
+04/22/2020 00:42:22 The value of i is 19
+04/22/2020 00:42:22 The value of i is 20
+04/22/2020 00:42:22 The value of i is 21
+04/22/2020 00:42:22 The value of i is 22
+04/22/2020 00:42:22 The value of i is 23
+04/22/2020 00:42:22 The value of i is 24
+04/22/2020 00:42:22 The value of i is 25
+04/22/2020 00:42:22 The value of i is 26
+04/22/2020 00:42:22 The value of i is 27
+04/22/2020 00:42:22 The value of i is 28
+04/22/2020 00:42:22 The value of i is 29
+04/22/2020 00:42:22 The value of i is 30
+04/22/2020 00:42:22 The value of i is 31
+04/22/2020 00:42:22 The value of i is 32
+04/22/2020 00:42:22 The value of i is 33
+04/22/2020 00:42:22 The value of i is 34
+04/22/2020 00:42:22 The value of i is 35
+04/22/2020 00:42:22 The value of i is 36
+04/22/2020 00:42:22 The value of i is 37
+04/22/2020 00:42:22 The value of i is 38
+04/22/2020 00:42:22 The value of i is 39
+04/22/2020 00:42:22 The value of i is 40
+04/22/2020 00:42:22 The value of i is 41
+04/22/2020 00:42:22 The value of i is 42
+04/22/2020 00:42:22 The value of i is 43
+04/22/2020 00:42:22 The value of i is 44
+04/22/2020 00:42:22 The value of i is 45
+04/22/2020 00:42:22 The value of i is 46
+04/22/2020 00:42:22 The value of i is 47
+04/22/2020 00:42:22 The value of i is 48
+04/22/2020 00:42:22 The value of i is 49
+04/22/2020 00:42:22 We caught this exception in the Test call.
+System.Exception: This is our demo Exception
+   at SeriLogDemo.Web.Controllers.HomeController.Test() in C:\Users\IbrahimSaleh\source\repos\SeriLogDemo\SeriLogDemo.Web\Controllers\HomeController.cs:line 47
+04/22/2020 00:42:22 HTTP "GET" "/Home/Test" responded 200 in 194.0469 ms
+04/22/2020 00:45:21 Application Starting Up
+04/22/2020 00:45:24 HTTP "GET" "/" responded 200 in 177.6131 ms
+04/22/2020 00:46:09 Application Starting Up
+04/22/2020 00:46:12 HTTP "GET" "/" responded 200 in 174.2498 ms
+04/22/2020 00:46:53 You requested The index page.
+04/22/2020 00:46:53 The value of i is 0
+04/22/2020 00:46:53 The value of i is 1
+04/22/2020 00:46:53 The value of i is 2
+04/22/2020 00:46:53 The value of i is 3
+04/22/2020 00:46:53 The value of i is 4
+04/22/2020 00:46:53 The value of i is 5
+04/22/2020 00:46:53 The value of i is 6
+04/22/2020 00:46:53 The value of i is 7
+04/22/2020 00:46:53 The value of i is 8
+04/22/2020 00:46:53 The value of i is 9
+04/22/2020 00:46:53 The value of i is 10
+04/22/2020 00:46:53 The value of i is 11
+04/22/2020 00:46:53 The value of i is 12
+04/22/2020 00:46:53 The value of i is 13
+04/22/2020 00:46:53 The value of i is 14
+04/22/2020 00:46:53 The value of i is 15
+04/22/2020 00:46:53 The value of i is 16
+04/22/2020 00:46:53 The value of i is 17
+04/22/2020 00:46:53 The value of i is 18
+04/22/2020 00:46:53 The value of i is 19
+04/22/2020 00:46:53 The value of i is 20
+04/22/2020 00:46:53 The value of i is 21
+04/22/2020 00:46:53 The value of i is 22
+04/22/2020 00:46:53 The value of i is 23
+04/22/2020 00:46:53 The value of i is 24
+04/22/2020 00:46:53 The value of i is 25
+04/22/2020 00:46:53 The value of i is 26
+04/22/2020 00:46:53 The value of i is 27
+04/22/2020 00:46:53 The value of i is 28
+04/22/2020 00:46:53 The value of i is 29
+04/22/2020 00:46:53 The value of i is 30
+04/22/2020 00:46:53 The value of i is 31
+04/22/2020 00:46:53 The value of i is 32
+04/22/2020 00:46:53 The value of i is 33
+04/22/2020 00:46:53 The value of i is 34
+04/22/2020 00:46:53 The value of i is 35
+04/22/2020 00:46:53 The value of i is 36
+04/22/2020 00:46:53 The value of i is 37
+04/22/2020 00:46:53 The value of i is 38
+04/22/2020 00:46:53 The value of i is 39
+04/22/2020 00:46:53 The value of i is 40
+04/22/2020 00:46:53 The value of i is 41
+04/22/2020 00:46:53 The value of i is 42
+04/22/2020 00:46:53 The value of i is 43
+04/22/2020 00:46:53 The value of i is 44
+04/22/2020 00:46:53 The value of i is 45
+04/22/2020 00:46:53 The value of i is 46
+04/22/2020 00:46:53 The value of i is 47
+04/22/2020 00:46:53 The value of i is 48
+04/22/2020 00:46:53 The value of i is 49
+04/22/2020 00:46:53 We caught this exception in the Test call.
+System.Exception: This is our demo Exception
+   at SeriLogDemo.Web.Controllers.HomeController.Test() in C:\Users\IbrahimSaleh\source\repos\SeriLogDemo\SeriLogDemo.Web\Controllers\HomeController.cs:line 47
+04/22/2020 00:46:53 HTTP "GET" "/Home/Test" responded 200 in 167.6299 ms
+04/22/2020 00:49:15 Application Starting Up
+04/22/2020 00:49:18 HTTP "GET" "/" responded 200 in 187.5523 ms
+04/22/2020 00:49:21 You requested The index page.
+04/22/2020 00:49:21 The value of i is 0
+04/22/2020 00:49:21 The value of i is 1
+04/22/2020 00:49:21 The value of i is 2
+04/22/2020 00:49:21 The value of i is 3
+04/22/2020 00:49:21 The value of i is 4
+04/22/2020 00:49:21 The value of i is 5
+04/22/2020 00:49:21 The value of i is 6
+04/22/2020 00:49:21 The value of i is 7
+04/22/2020 00:49:21 The value of i is 8
+04/22/2020 00:49:21 The value of i is 9
+04/22/2020 00:49:21 The value of i is 10
+04/22/2020 00:49:21 The value of i is 11
+04/22/2020 00:49:21 The value of i is 12
+04/22/2020 00:49:21 The value of i is 13
+04/22/2020 00:49:21 The value of i is 14
+04/22/2020 00:49:21 The value of i is 15
+04/22/2020 00:49:21 The value of i is 16
+04/22/2020 00:49:21 The value of i is 17
+04/22/2020 00:49:21 The value of i is 18
+04/22/2020 00:49:21 The value of i is 19
+04/22/2020 00:49:21 The value of i is 20
+04/22/2020 00:49:21 The value of i is 21
+04/22/2020 00:49:21 The value of i is 22
+04/22/2020 00:49:21 The value of i is 23
+04/22/2020 00:49:21 The value of i is 24
+04/22/2020 00:49:21 The value of i is 25
+04/22/2020 00:49:21 The value of i is 26
+04/22/2020 00:49:21 The value of i is 27
+04/22/2020 00:49:21 The value of i is 28
+04/22/2020 00:49:21 The value of i is 29
+04/22/2020 00:49:21 The value of i is 30
+04/22/2020 00:49:21 The value of i is 31
+04/22/2020 00:49:21 The value of i is 32
+04/22/2020 00:49:21 The value of i is 33
+04/22/2020 00:49:21 The value of i is 34
+04/22/2020 00:49:21 The value of i is 35
+04/22/2020 00:49:21 The value of i is 36
+04/22/2020 00:49:21 The value of i is 37
+04/22/2020 00:49:21 The value of i is 38
+04/22/2020 00:49:21 The value of i is 39
+04/22/2020 00:49:21 The value of i is 40
+04/22/2020 00:49:21 The value of i is 41
+04/22/2020 00:49:21 The value of i is 42
+04/22/2020 00:49:21 The value of i is 43
+04/22/2020 00:49:21 The value of i is 44
+04/22/2020 00:49:21 The value of i is 45
+04/22/2020 00:49:21 The value of i is 46
+04/22/2020 00:49:21 The value of i is 47
+04/22/2020 00:49:21 The value of i is 48
+04/22/2020 00:49:21 The value of i is 49
+04/22/2020 00:49:21 We caught this exception in the Test call.
+System.Exception: This is our demo Exception
+   at SeriLogDemo.Web.Controllers.HomeController.Test() in C:\Users\IbrahimSaleh\source\repos\SeriLogDemo\SeriLogDemo.Web\Controllers\HomeController.cs:line 47
+04/22/2020 00:49:21 HTTP "GET" "/Home/Test" responded 200 in 177.5156 ms
+04/22/2020 00:56:20 Application Starting Up
+04/22/2020 00:56:22 HTTP "GET" "/" responded 200 in 194.1732 ms
+04/22/2020 00:56:31 You requested The index page.
+04/22/2020 00:56:31 The value of i is 0
+04/22/2020 00:56:31 The value of i is 1
+04/22/2020 00:56:31 The value of i is 2
+04/22/2020 00:56:31 The value of i is 3
+04/22/2020 00:56:31 The value of i is 4
+04/22/2020 00:56:31 The value of i is 5
+04/22/2020 00:56:31 The value of i is 6
+04/22/2020 00:56:31 The value of i is 7
+04/22/2020 00:56:31 The value of i is 8
+04/22/2020 00:56:31 The value of i is 9
+04/22/2020 00:56:31 The value of i is 10
+04/22/2020 00:56:31 The value of i is 11
+04/22/2020 00:56:31 The value of i is 12
+04/22/2020 00:56:31 The value of i is 13
+04/22/2020 00:56:31 The value of i is 14
+04/22/2020 00:56:31 The value of i is 15
+04/22/2020 00:56:31 The value of i is 16
+04/22/2020 00:56:31 The value of i is 17
+04/22/2020 00:56:31 The value of i is 18
+04/22/2020 00:56:31 The value of i is 19
+04/22/2020 00:56:31 The value of i is 20
+04/22/2020 00:56:31 The value of i is 21
+04/22/2020 00:56:31 The value of i is 22
+04/22/2020 00:56:31 The value of i is 23
+04/22/2020 00:56:31 The value of i is 24
+04/22/2020 00:56:31 The value of i is 25
+04/22/2020 00:56:31 The value of i is 26
+04/22/2020 00:56:31 The value of i is 27
+04/22/2020 00:56:31 The value of i is 28
+04/22/2020 00:56:31 The value of i is 29
+04/22/2020 00:56:31 The value of i is 30
+04/22/2020 00:56:31 The value of i is 31
+04/22/2020 00:56:31 The value of i is 32
+04/22/2020 00:56:31 The value of i is 33
+04/22/2020 00:56:31 The value of i is 34
+04/22/2020 00:56:31 The value of i is 35
+04/22/2020 00:56:31 The value of i is 36
+04/22/2020 00:56:31 The value of i is 37
+04/22/2020 00:56:31 The value of i is 38
+04/22/2020 00:56:31 The value of i is 39
+04/22/2020 00:56:31 The value of i is 40
+04/22/2020 00:56:31 The value of i is 41
+04/22/2020 00:56:31 The value of i is 42
+04/22/2020 00:56:31 The value of i is 43
+04/22/2020 00:56:31 The value of i is 44
+04/22/2020 00:56:31 The value of i is 45
+04/22/2020 00:56:31 The value of i is 46
+04/22/2020 00:56:31 The value of i is 47
+04/22/2020 00:56:31 The value of i is 48
+04/22/2020 00:56:31 The value of i is 49
+04/22/2020 00:56:31 We caught this exception in the Test call.
+System.Exception: This is our demo Exception
+   at SeriLogDemo.Web.Controllers.HomeController.Test() in C:\Users\IbrahimSaleh\source\repos\SeriLogDemo\SeriLogDemo.Web\Controllers\HomeController.cs:line 47
+04/22/2020 00:56:31 HTTP "GET" "/Home/Test" responded 200 in 233.1529 ms
+04/22/2020 01:00:10 Application Starting Up
+04/22/2020 01:00:13 HTTP "GET" "/" responded 200 in 177.3385 ms
+04/22/2020 01:00:17 You requested The index page.
+04/22/2020 01:00:17 The value of i is 0
+04/22/2020 01:00:17 The value of i is 1
+04/22/2020 01:00:17 The value of i is 2
+04/22/2020 01:00:17 The value of i is 3
+04/22/2020 01:00:17 The value of i is 4
+04/22/2020 01:00:17 The value of i is 5
+04/22/2020 01:00:17 The value of i is 6
+04/22/2020 01:00:17 The value of i is 7
+04/22/2020 01:00:17 The value of i is 8
+04/22/2020 01:00:17 The value of i is 9
+04/22/2020 01:00:17 The value of i is 10
+04/22/2020 01:00:17 The value of i is 11
+04/22/2020 01:00:17 The value of i is 12
+04/22/2020 01:00:17 The value of i is 13
+04/22/2020 01:00:17 The value of i is 14
+04/22/2020 01:00:17 The value of i is 15
+04/22/2020 01:00:17 The value of i is 16
+04/22/2020 01:00:17 The value of i is 17
+04/22/2020 01:00:17 The value of i is 18
+04/22/2020 01:00:17 The value of i is 19
+04/22/2020 01:00:17 The value of i is 20
+04/22/2020 01:00:17 The value of i is 21
+04/22/2020 01:00:17 The value of i is 22
+04/22/2020 01:00:17 The value of i is 23
+04/22/2020 01:00:17 The value of i is 24
+04/22/2020 01:00:17 The value of i is 25
+04/22/2020 01:00:17 The value of i is 26
+04/22/2020 01:00:17 The value of i is 27
+04/22/2020 01:00:17 The value of i is 28
+04/22/2020 01:00:17 The value of i is 29
+04/22/2020 01:00:17 The value of i is 30
+04/22/2020 01:00:17 The value of i is 31
+04/22/2020 01:00:17 The value of i is 32
+04/22/2020 01:00:17 The value of i is 33
+04/22/2020 01:00:17 The value of i is 34
+04/22/2020 01:00:17 The value of i is 35
+04/22/2020 01:00:17 The value of i is 36
+04/22/2020 01:00:17 The value of i is 37
+04/22/2020 01:00:17 The value of i is 38
+04/22/2020 01:00:17 The value of i is 39
+04/22/2020 01:00:17 The value of i is 40
+04/22/2020 01:00:17 The value of i is 41
+04/22/2020 01:00:17 The value of i is 42
+04/22/2020 01:00:17 The value of i is 43
+04/22/2020 01:00:17 The value of i is 44
+04/22/2020 01:00:17 The value of i is 45
+04/22/2020 01:00:17 The value of i is 46
+04/22/2020 01:00:17 The value of i is 47
+04/22/2020 01:00:17 The value of i is 48
+04/22/2020 01:00:17 The value of i is 49
+04/22/2020 01:00:17 We caught this exception in the Test call.
+System.Exception: This is our demo Exception
+   at SeriLogDemo.Web.Controllers.HomeController.Test() in C:\Users\IbrahimSaleh\source\repos\SeriLogDemo\SeriLogDemo.Web\Controllers\HomeController.cs:line 47
+04/22/2020 01:00:17 HTTP "GET" "/Home/Test" responded 200 in 169.6765 ms

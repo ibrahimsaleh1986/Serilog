@@ -1,0 +1,9 @@
+serilog.aspnetcore
+Serilog.Settings.Configuration
+Serilog.Enrichers.Environment
+Serilog.Enrichers.Thread
+Serilog.Enrichers.Process
+Serilog.Sinks.Seq
+
+to create seq container:
+docker run -d --restart unless-stopped --name seq -e ACCEPT_EULA=Y -v C:\Users\IbrahimSaleh\source\repos\SeriLogDemo\SeriLogDemo.Web\Logs:/data -p 8081:80 datalust/seq:latest
